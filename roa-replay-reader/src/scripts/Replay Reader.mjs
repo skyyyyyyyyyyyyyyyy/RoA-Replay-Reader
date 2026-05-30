@@ -75,13 +75,13 @@ export function readReplayFile(file) {
             }
 
             // team match
-            if (fileLines[i].substring(8, 9) > 0) {
+            if (fileLines[i].substring(9, 10) > 0) {
                 replayData.gamemode = "Team " + replayData.gamemode;
             }
 
 
             // abyss match
-            if (fileLines[i].substring(13, 14) > 0) {
+            if (fileLines[i].substring(15, 16) > 0) {
                 replayData.gamemode = "Abyss " + replayData.gamemode;
             }
 

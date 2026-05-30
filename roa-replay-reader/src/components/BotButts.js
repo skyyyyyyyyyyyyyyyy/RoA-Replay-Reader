@@ -56,7 +56,7 @@ function LocalFileButt({showData, updateData, setPadValue}) {
 function DemoFileButt({showData, updateData, setPadValue}) {
 
   const demoFile = `021060322560717092023REPLAY 2023-9-17 (22:56)                                                                                                                                                    00000699320000000000
-011030820110000000565000000000
+01103108201100000000565000000000
 HFireicey                        MARK  00203030310004000227A35BCFFA6D2FF001EDD00007F0EA5                  000000000000000000000 20000000000000000000000000000000000000000
 heres where the inputs go but we dont actually read this
 HTheDripCollector                Drip  004420042200001302927272DC0C2D747472DC0C2E6DA1947                  000000000000000000000 10000000000000000000000000000000000000000
